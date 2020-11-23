@@ -1,0 +1,12 @@
+/Users/Alex.Ruddell/Documents/payslipInitial/payslipInitial/bin/Debug/netcoreapp3.1/payslipInitial.deps.json
+/Users/Alex.Ruddell/Documents/payslipInitial/payslipInitial/bin/Debug/netcoreapp3.1/payslipInitial.runtimeconfig.json
+/Users/Alex.Ruddell/Documents/payslipInitial/payslipInitial/bin/Debug/netcoreapp3.1/payslipInitial.runtimeconfig.dev.json
+/Users/Alex.Ruddell/Documents/payslipInitial/payslipInitial/bin/Debug/netcoreapp3.1/payslipInitial.dll
+/Users/Alex.Ruddell/Documents/payslipInitial/payslipInitial/bin/Debug/netcoreapp3.1/payslipInitial.pdb
+/Users/Alex.Ruddell/Documents/payslipInitial/payslipInitial/obj/Debug/netcoreapp3.1/payslipInitial.csprojAssemblyReference.cache
+/Users/Alex.Ruddell/Documents/payslipInitial/payslipInitial/obj/Debug/netcoreapp3.1/payslipInitial.AssemblyInfoInputs.cache
+/Users/Alex.Ruddell/Documents/payslipInitial/payslipInitial/obj/Debug/netcoreapp3.1/payslipInitial.AssemblyInfo.cs
+/Users/Alex.Ruddell/Documents/payslipInitial/payslipInitial/obj/Debug/netcoreapp3.1/payslipInitial.csproj.CoreCompileInputs.cache
+/Users/Alex.Ruddell/Documents/payslipInitial/payslipInitial/obj/Debug/netcoreapp3.1/payslipInitial.dll
+/Users/Alex.Ruddell/Documents/payslipInitial/payslipInitial/obj/Debug/netcoreapp3.1/payslipInitial.pdb
+/Users/Alex.Ruddell/Documents/payslipInitial/payslipInitial/obj/Debug/netcoreapp3.1/payslipInitial.genruntimeconfig.cache
